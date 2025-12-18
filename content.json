@@ -1,0 +1,83 @@
+{
+  "contact": {
+    "phone": {
+      "display": "0944 372 273",
+      "raw": "421944372273"
+    },
+    "email": "pohoda234@gmail.com"
+  },
+
+  "brand": {
+    "name": "Odťahovka GROOT",
+    "tagline": "NONSTOP Odťah a preprava vozidiel"
+  },
+
+  "hero": {
+    "title": "Odťahová služba NONSTOP 24h",
+    "subtitle": "Ponúkame odťah a prepravu vozidiel po celej SR a EÚ. Rýchlo, spoľahlivo a za férové ceny."
+  },
+
+  "about": {
+    "text": [
+      "Odťahovka Šaľa - profesionálny odťah a prepravu vozidiel NONSTOP 24 hodín denne v rámci celej Slovenskej republiky aj Európskej únie.",
+      "Prepravujeme nepojazdné, neprihlásené, havarované, búrané vozidlá aj vozidlá bez STK. Sme spoľahlivá odťahová služba so sídlom v Šali."
+    ]
+  },
+
+  "offers": [
+    {
+      "title": "Odťah nepojazdných vozidiel",
+      "text": "Rýchly a bezpečný odťah nepojazdných, havarovaných alebo poškodených vozidiel."
+    },
+    {
+      "title": "Preprava vozidiel SR & EÚ",
+      "text": "Prepravujeme osobné aj úžitkové vozidlá v rámci celej SR a Európskej únie."
+    },
+    {
+      "title": "Neprihlásené a búrané vozidlá",
+      "text": "Zabezpečujeme odťah aj prepravu neprihlásených, búraných a dlhodobo odstavených vozidiel."
+    }
+  ],
+
+  "whyUs": [
+    {
+      "title": "NONSTOP dostupnosť",
+      "subtitle": "24 hodín denne, 7 dní v týždni",
+      "text": "Naša odťahová služba je k dispozícii nonstop – cez deň, v noci aj počas sviatkov."
+    },
+    {
+      "title": "Rýchly zásah",
+      "subtitle": "Okamžitý výjazd",
+      "text": "Po zavolaní vyrážame v čo najkratšom čase, aby sme vám pomohli bez zbytočného čakania."
+    },
+    {
+      "title": "Férové ceny",
+      "subtitle": "Žiadne skryté poplatky",
+      "text": "Ponúkame transparentné a rozumné ceny za odťah aj prepravu vozidiel."
+    },
+    {
+      "title": "Skúsenosti a spoľahlivosť",
+      "subtitle": "Profesionálny prístup",
+      "text": "Máme skúsenosti s rôznymi typmi vozidiel a vždy dbáme na bezpečnú manipuláciu."
+    }
+  ],
+
+  "reviews": [
+    {
+      "name": "Martin K.",
+      "text": "Rýchly príchod, profesionálny prístup a dobrá cena. Určite odporúčam."
+    },
+    {
+      "name": "Lucia M.",
+      "text": "Odťah v noci bez problémov, všetko prebehlo hladko. Veľká spokojnosť."
+    },
+    {
+      "name": "Peter H.",
+      "text": "Preprava auta do zahraničia prebehla bez komplikácií. Spoľahlivá služba."
+    }
+  ],
+
+  "footer": {
+    "copyright": "© 2025 Odťahovka GROOT · NONSTOP 24h · Tel: 0944 372 273 · Email: pohoda234@gmail.com"
+  }
+}
